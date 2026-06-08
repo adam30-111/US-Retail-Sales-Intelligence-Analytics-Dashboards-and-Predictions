@@ -1,2 +1,4 @@
 # US Retail Sales Intelligence: Analytics, Dashboards, and Predictions
-Exploratory data analysis, interactive dashboard, and key business insights on a US retail &amp; shipping company's sales data (2015–2018) — covering trends, regional performance, and product categories.
+End-to-end retail sales analytics project: EDA, interactive Plotly dashboard,
+and ML prediction model on 4 years of US superstore data. Built with Python,
+Pandas, and Scikit-learn.
