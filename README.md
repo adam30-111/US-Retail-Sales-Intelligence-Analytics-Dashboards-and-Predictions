@@ -33,18 +33,17 @@ The project is structured around three deliverables: a deep exploratory analysis
 ## 🗂️ Repository Structure
 
 ```
-US-Retail-Sales-Analysis/
+US-Retail-Sales-Intelligence-Analytics-Dashboards-and-Predictions/
 ├── data/
-│   ├── Sales_raw_data.csv          # Original dataset
-│   └── Sales_cleaned_data.csv      # Cleaned & feature-engineered
+│   ├── Sales_cleaned_data.csv      # Cleaned & feature-engineered
+│   └── Sales_raw_data.csv          # Original dataset
+├── images/                         # Screenshots & visualizations 
 ├── notebooks/
 │   ├── 01_EDA.ipynb                # Exploratory Data Analysis
 │   ├── 02_Dashboard.ipynb          # Interactive Plotly Dashboard
-│   └── 03_Insights_and_ML.ipynb    # Key Insights + ML Model
-├── images/                          # Screenshots & visualizations
-├── requirements.txt
-├── LICENSE
-└── README.md
+│   └── 03_Insights_and_ML.ipynb    # Key Insights + ML Model                       
+├── README.md
+└── requirements.txt
 ```
 
 ---
